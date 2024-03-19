@@ -88,3 +88,13 @@ Good luck and may the force be with you
 
 
 ## Solution
+
+## Submitted solution
+
+To run the code:
+- Open command line in cmd directory where is the main.go file:
+  `cd cmd`
+- to run the code:
+  `go run main.go --input_file ../events.txt --window_size 10`
+  - replace ../events.txt to the path of different file if you want  
+
